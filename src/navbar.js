@@ -8,5 +8,6 @@ function navbar() {
     </div>
   );
 }
+let password = "passwork";
 
 export default navbar;
