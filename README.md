@@ -26,6 +26,6 @@ if you forgot to remove and lots of commits have this password.
 
 # If you use any of the commands to push in to the local server use
 
-==git push origin --all --force==
+<mark>git push origin --all --force</mark>
 
 ==git push origin --tags --force==
